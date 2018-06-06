@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/Monostate/bin/Debug/netcoreapp2.0/Monostate.deps.json
+/Users/koji/Repositories/Csharp/Monostate/bin/Debug/netcoreapp2.0/Monostate.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Monostate/bin/Debug/netcoreapp2.0/Monostate.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Monostate/bin/Debug/netcoreapp2.0/Monostate.dll
+/Users/koji/Repositories/Csharp/Monostate/bin/Debug/netcoreapp2.0/Monostate.pdb
+/Users/koji/Repositories/Csharp/Monostate/obj/Debug/netcoreapp2.0/Monostate.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/Monostate/obj/Debug/netcoreapp2.0/Monostate.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Monostate/obj/Debug/netcoreapp2.0/Monostate.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Monostate/obj/Debug/netcoreapp2.0/Monostate.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Monostate/obj/Debug/netcoreapp2.0/Monostate.dll
+/Users/koji/Repositories/Csharp/Monostate/obj/Debug/netcoreapp2.0/Monostate.pdb
